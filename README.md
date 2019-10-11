@@ -9,3 +9,8 @@ There is also a .mp3 file that is imported as a background music file.
 The code is very simple & understandable.
 It can be easily optimized to a shorter length.
 
+## Installation and Running
+1. Install pygame using `sudo pip3 install pygame`.
+2. Install numpy using `sudo pip3 install numpy`.
+3. Run game using `python3 pac-man.py`.
+
